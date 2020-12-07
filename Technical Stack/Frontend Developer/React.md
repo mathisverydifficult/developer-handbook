@@ -5,7 +5,7 @@ React is an open-source JavaScript library for building user interfaces. It is m
 
   
 
-*   [v] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
+*   [ ] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
 *   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
 *   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
 *   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
